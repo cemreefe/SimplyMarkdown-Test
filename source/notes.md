@@ -10,6 +10,10 @@ Legend:
   <li><find-tag>#concept</find-tag>: Concepts i did not know or had forgotten about</li>
 </ul>
 
+### 2025-03-08
+
+solar charging ereader <https://www.instructables.com/Solar-charging-ereader/>
+
 ### 2025-02-03 12:42 
 
 Reviewed list of blogging platforms with columns:
